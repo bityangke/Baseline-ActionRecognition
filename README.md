@@ -1,1 +1,3 @@
-# Baseline_Action_Recognition
+# Baseline-ActionRecognition
+
+torch 1.1.0
